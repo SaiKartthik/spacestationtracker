@@ -1,6 +1,6 @@
 var map = L.map('map').setView([0, 0], 2);
 var myIcon = L.icon({
-    iconUrl: 'https://www.svgrepo.com/show/13977/location-pointer.svg',
+    iconUrl: 'https://www.svgrepo.com/show/170716/international-space-station.svg',
     iconSize: [38, 95],
 
 });
